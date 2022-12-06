@@ -1,0 +1,52 @@
+	Jugador	Equipo	Role	metas	Multa	mín./objetivo	minutos	Juegos
+1	Víctor Osimhen	Nápoles	ataque	9	0	100.44	904	11
+2	Marko Arnautovic	Bolonia	ataque	8	3	138	1104	13
+3	Lautaro Martínez	En término	ataque	7	1	174.14	1219	15
+4	Mbala N´Zola	especia	ataque	7	1	192.86	1350	15
+5	Inglaterraademola lukman	atalanta	ataque	7	2	123.29	863	15
+6	Beta	Údinez	ataque	6	0	114.17	685	15
+7	Jvicha Kvaratskhelia	Nápoles	ataque	6	0	146	876	12
+8	Edin jacko	En término	ataque	6	0	155.83	935	15
+9	Boulaye Dia	salernitana	ataque	6	0	160	960	14
+10	Rafael Leau	Milán	ataque	6	0	168.33	1010	14
+11	Ciro Inmóvil	Lacio	ataque	6	1	136.17	817	11
+12	Dusan Vlahovic	juventus	ataque	6	1	142.33	854	10
+13	Mattia Cakanyi	Lacio	centrocampista	5	0	205.2	1026	13
+14	Nicolás Barella	En término	centrocampista	5	0	257.6	1288	15
+15	paulo dybala	Roma	ataque	5	1	120.4	602	9
+16	Olivier Giroud	Milán	ataque	5	1	153.8	769	13
+17	Moïse Keen	juventus	ataque	4	0	121.75	487	13
+18	braim diaz	Milán	centrocampista	4	0	166	664	13
+19	Arkadiusz Milik	juventus	ataque	4	0	177	708	12
+20	David Frattezzi	Sassuolo	centrocampista	4	0	305.25	1221	15
+21	Nikola Vlasic	Turín	centrocampista	4	0	320	1280	15
+22	gabriel strefezza	Lecce	ataque	4	1	224.25	897	13
+23	Tyon Copmeiners	atalanta	centrocampista	4	2	323.75	1295	15
+24	Joaquín Correa	En término	centrocampista	3	0	110.67	332	13
+25	Ante Rebic	Milán	ataque	3	0	144.67	434	10
+26	lorenzo colombo	Lecce	ataque	3	0	156.33	469	13
+27	lewis ferguson	Bolonia	centrocampista	3	0	170.33	511	9
+28	Lazar Samardzic	Údinez	centrocampista	3	0	173.67	521	14
+29	del norteelif elmas	Nápoles	centrocampista	3	0	176.33	529	14
+30	luis alberto	Lacio	centrocampista	3	0	181	543	13
+31	luka jovic	fiorentina	ataque	3	0	249.67	749	14
+32	Assan Sesay	Lecce	ataque	3	0	296.67	890	15
+33	Piotr Zelinski	Nápoles	centrocampista	3	0	305	915	15
+34	Juan Buenaventura	fiorentina	centrocampista	3	0	311	933	12
+35	Adrián Rabiot	juventus	centrocampista	3	0	311.67	935	11
+36	tammy abraham	Roma	ataque	3	0	348.67	1046	15
+37	federico dimarco	En término	defensor	3	0	351.67	1055	15
+38	David Okereke	cremonés	ataque	3	0	384.67	1154	15
+39	Serguéi Milinkovich-Savic	Lacio	centrocampista	3	0	385.33	1156	14
+40	Carlos Augusto	Monza	defensor	3	0	407.33	1222	14
+41	felipe anderson	Lacio	ataque	3	0	408.33	1225	15
+42	Chris Smalling	Roma	defensor	3	0	440.67	1322	15
+43	Krzysztof Piontek	salernitana	ataque	3	1	226	678	11
+44	irwin losano	Nápoles	ataque	3	1	240	720	14
+45	Andrea Pinamonti	Sassuolo	ataque	3	1	387.67	1163	15
+46	mateo politano	Nápoles	ataque	3	2	202	606	14
+47	Juan Simeone	Nápoles	ataque	2	0	70	140	8
+48	Nicolás Fagioli	juventus	centrocampista	2	0	163	326	7
+49	andrea colpani	Monza	centrocampista	2	0	168	336	10
+50	Tommaso Baldanzi	Empoli	ataque	2	0	184	368	6
+

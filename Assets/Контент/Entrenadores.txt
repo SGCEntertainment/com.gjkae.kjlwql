@@ -1,0 +1,23 @@
+№	Entrenador	DR	equipos	Partidos	victorias	Sorteos	Vencer.	Lentes	% puntos
+1	Massimiliano alegri	11.08.1967	juventus	15	9	4	2	31	68.89
+2	Massimiliano Alvini		cremonés	15	0	7	8	7	15.56
+3	marco Barón	11.09.1963	Lecce	15	3	6	6	15	33.33
+4	Gian piero Gasperini	26.01.1958	atalanta	15	8	3	4	27	60.00
+5	Lucas Gotti	13.09.1967	especia	15	3	4	8	13	28.89
+6	marco Giampaolo	02.08.1967	sampdoria	15	1	3	11	6	13.33
+7	Pablo Dzanetti	16.12.1982	Empoli	15	4	5	6	17	37.78
+8	alessio Dionisio	01.04.1980	Sassuolo	15	4	4	7	16	35.56
+9	simoneIndzagui	05.04.1976	En término	15	10	0	5	30	66.67
+10	Vicenzono	10.12.1977	fiorentina	15	5	4	6	19	42.22
+11	Sinisa Mijailovich	20.02.1969	Bolonia	15	5	4	6	19	42.22
+12	thiago Lema	28.08.1982	Bolonia	0	0	0	0	0	0.00
+13	José Mourinho	26.01.1963	Roma	15	8	3	4	27	60.00
+14	David Nicolás	05.03.1973	salernitana	15	4	5	6	17	37.78
+15	stefan opioli	20.10.1965	Milán	15	10	3	2	33	73.33
+16	Mauricio Sara	10.01.1959	Lacio	15	9	3	3	30	66.67
+17	Andrea sotil	04.01.1974	Údinez	15	6	6	3	24	53.33
+18	Luciano Spalletti	07.03.1959	Nápoles	15	13	2	0	41	91.11
+19	Hechos Stankovic	11.09.1978	sampdoria	0	0	0	0	0	0.00
+20	Juan Stroppa	24.01.1968	Monza	15	5	1	9	16	35.56
+21	gabriel Joffey	30.09.1975		15	1	2	12	5	11.11
+22	Iván Jurich	25.08.1975		15	6	3	6	21	46.67

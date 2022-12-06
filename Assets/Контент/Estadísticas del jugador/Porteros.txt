@@ -1,0 +1,30 @@
+
+№	Jugador	Equipo	Role	metas	Promedio	Juegos
+1	PortugalLuis Manuel Maximianu	Lacio	portero	0	0	1
+2	Países BajosJeroen Zut	especia	portero	1	0.5	2
+3	ItaliaPierluigi Gollini	fiorentina	portero	2	0.67	3
+4	PoloniaWojciech Szczesny	juventus	portero	3	0.33	9
+5	Italiamattia perrin	juventus	portero	4	0.57	7
+6	ItaliaMarko Karnesecki	cremonés	portero	7	1.17	6
+7	Italiamarco sportiello	atalanta	portero	7	1.17	6
+8	RumaniaCipriano Teterushanu	Milán	portero	7	0.88	8
+9	FranciaMick Menyan	Milán	portero	8	1.14	7
+10	ArgentinaJuan Musso	atalanta	portero	8	0.8	10
+11	CamerúnAndré Onana	En término	portero	9	1.29	7
+12	ItaliaIván Provedel	Lacio	portero	11	0.73	15
+13	Italiaalex meret	Nápoles	portero	12	0.8	15
+14	EsloveniaSamir Handanovich	En término	portero	13	1.63	8
+15	Portugalrui patricio	Roma	portero	14	0.93	15
+16	SerbiaVanya Milinkovic-Savic	Turín	portero	17	1.13	15
+17	Italiavladimir falcone	Lecce	portero	17	1.13	15
+18	ItaliaMarco Silvestri	Údinez	portero	17	1.13	15
+19	ItaliaPietro Terracciano	fiorentina	portero	18	1.5	12
+20	ItaliaGuglielmo Vicario	Empoli	portero	19	1.27	15
+21	RumaniaJonuc Radu	cremonés	portero	20	2.22	9
+22	Italiaandrea consigli	Sassuolo	portero	22	1.47	15
+23	Italiamichele di gregorio	Monza	portero	22	1.47	15
+24	ItaliaLuis Sepe	salernitana	portero	24	1.6	15
+25	PoloniaBartlomey Drongovsky	especia	portero	25	1.79	14
+26	Polonialukas skorupski	Bolonia	portero	25	1.67	15
+27	ItaliaEmilio Audero	sampdoria	portero	27	1.8	15
+28	Italialorenzo montipo	Verona	portero	29	1.93	15

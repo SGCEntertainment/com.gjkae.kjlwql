@@ -1,0 +1,11 @@
+Sí, Leau no trabaja para el equipo. En este caso, debería dar números en ataque muy por encima de la media, pero no lo son.
+
+Esta temporada, Leau ya tiene 9 puntos (5 + 4) en goles + pases en la Serie A -el portugués comparte la quinta línea en este indicador con Immobile y Lautaro, y solo Osimkhen y Kvaratskhelia tienen números más altos (ambos con 11 cada uno), y también Milinkovic-Savic con Barella (ambos - 10 cada uno).
+
+El rendimiento de Leau es realmente bastante decente en el segmento actual, pero si profundizas más y recurres a estadísticas avanzadas, las cosas no quedan tan claras. Por ejemplo, en xG, excluyendo los penaltis, Rafael solo está en el octavo lugar. Sí, sí, este indicador depende directamente del estilo de juego del equipo, de la funcionalidad y tareas del jugador en el campo. Sin embargo, en combinación con números reales, puede reflejar con mayor precisión el rendimiento actual del jugador.
+
+En términos relativos, Gerard Deulofeu de Udinese ahora tiene 2 + 6 en goles + pases (menos que Leau), y al mismo tiempo ya 5.1 en npXg: si el español fuera mucho más preciso al final, ahora tendría algo sobre 11 acciones efectivas (más que Leau). El propio Leau, por el contrario, tiene un rendimiento un poco excesivo.
+
+Si tenemos en cuenta las esperadas asistencias de Leau justo en la frontera del top 20 con solo 2,4 xA -por encima de él, por ejemplo, jugadores como Filip Kostic de la Juve (3,6 xA), Denzel Dumfries del Inter (3,2 xA), Matteo Politano y Mario Rui de Napoli (ambos 2.7 xA). En términos de 90 minutos, por cierto, Leau está una línea por debajo del top 20 en este indicador.
+
+Leau es decimosexto en la Serie A en cuanto a ocasiones creadas de gol (por cierto, está Bennacer entre los 5 primeros). Si tenemos en cuenta solo las ocasiones de tiro creadas en el juego, lo cual es más justo, ya que Leau no juega a balón parado, entonces, incluso en este caso, Rafael es solo noveno en el campeonato.

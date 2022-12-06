@@ -1,0 +1,11 @@
+Recorrido	Fecha y hora		Controlar
+15	13.11.2022  22:45	Juventus - Lacio	3 : 0
+15	13.11.2022  20:00	Milán - Fiorentina	2 : 1
+15	13.11.2022  17:00	Verona - Spezia	1 : 2
+15	13.11.2022  17:00	Monza – Salernitana	3 : 0
+15	13.11.2022  17:00	Roma – Turín	1 : 1
+15	13.11.2022  14:30	Atalanta – Inter M	2 : 3
+15	12.11.2022  22:45	Bolonia – Sassuolo	3 : 0
+15	12.11.2022  20:00	Sampdoria - Lecce	0 : 2
+15	12.11.2022  17:00	Nápoles - Udinese	3 : 2
+15	11.11.2022  22:45	Empoli - Cremonese	2 : 0

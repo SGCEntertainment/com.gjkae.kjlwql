@@ -1,0 +1,11 @@
+№	Jugador	Equipo	Role	Metas propias	Juegos
+1	ArgentinaJosé Palomino	atalanta	defensor	1	1
+2	Colombiajason murillo	sampdoria	defensor	1	9
+3	Italialorenzo de silvestri	Bolonia	centrocampista	1	9
+4	BrasilMarlon	Monza	defensor	1	11
+5	Países BajosYerdi Schouten	Bolonia	centrocampista	1	11
+6	SerbiaNikolá Milenkovic	fiorentina	defensor	1	11
+7	Portugalmiguel veloz	Verona	centrocampista	1	13
+8	EslovaquiaMilán Skriniar	En término	defensor	1	15
+9	EspañaJuana González	Lecce	centrocampista	1	15
+10	ItaliaEmilio Audero	sampdoria	portero	1	15
